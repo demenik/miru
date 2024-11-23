@@ -1,0 +1,4 @@
+#Wed Nov 20 15:29:47 CET 2024
+base.0=/home/demenik/dev/miru/android/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
