@@ -1,1 +1,14 @@
-{}
+{
+  "tabHome": "Home",
+  "@tabHome": {
+    "description": "Home Tab name"
+  },
+  "tabSearch": "Search",
+  "@tabSearch": {
+    "description": "Search Tab name"
+  },
+  "tabSettings": "Settings",
+  "@tabSettings": {
+    "description": "Settings Tab name"
+  }
+}
